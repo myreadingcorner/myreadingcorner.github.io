@@ -10,6 +10,7 @@
             }
             body{
                 text-align:center;
+                background-color:#d4ebe4;
                 }
             .link{
                 text-decoration:none;
@@ -20,18 +21,18 @@
                 border-color:red;
                 border-style:inset;
             }
-        <.style>
+        </style>
     </head>
     <body>
-    <h1>My Reading Corner</h1>
-    <h4 id='text'>For kids who love to read</h4>
-    <p>Books for:</p>
-    <nav>
-        <a id="link-7-9" class='link' href=".">7-9 YEAR OLDS </a> &nbsp; &nbsp; 
-        <a id="link-10-12" class='link' href="/books-for-10-12-year-olds/">  10-12 YEAR OLDS </a> &nbsp;
-        <a id="link-13" class='link' href="/books-for-13-year-olds/">  13+ YEAR OLDS </a>
-    </nav>
-    <h2>Books for 7-9 Year Olds</h2>
-    <p>hello is this working</p>
+        <h1>My Reading Corner</h1>
+        <h4 id='text'>For kids who love to read</h4>
+        <p>Books for:</p>
+        <nav>
+            <a id="link-7-9" class='link' href=".">7-9 YEAR OLDS </a> &nbsp; &nbsp; 
+            <a id="link-10-12" class='link' href="/books-for-10-12-year-olds/">  10-12 YEAR OLDS </a> &nbsp;
+            <a id="link-13" class='link' href="/books-for-13-year-olds/">  13+ YEAR OLDS </a>
+        </nav>
+        <h2>Books for 7-9 Year Olds</h2>
+        <p>hello is this working</p>
     </body>
 </html>
