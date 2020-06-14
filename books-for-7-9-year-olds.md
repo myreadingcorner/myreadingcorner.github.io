@@ -10,8 +10,7 @@
             }
             body{
                 text-align:center;
-                
-            }
+                }
             .link{
                 text-decoration:none;
                 color:red;
@@ -21,7 +20,7 @@
                 border-color:red;
                 border-style:inset;
             }
-        </style>
+        <.style>
     </head>
     <body>
     <h1>My Reading Corner</h1>
@@ -33,6 +32,5 @@
         <a id="link-13" class='link' href="/books-for-13-year-olds/">  13+ YEAR OLDS </a>
     </nav>
     <h2>Books for 7-9 Year Olds</h2>
-
     </body>
 </html>
