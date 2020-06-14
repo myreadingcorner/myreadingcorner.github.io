@@ -23,7 +23,7 @@
         </style>
     </head>
     <body>
-        <h1>My Reading Corner</h1>
+        <a href="index.html"><h1>My Reading Corner</h1></a>
         <h4 id='text'>For kids who love to read</h4>
         <p>Books for:</p>
         <nav>
