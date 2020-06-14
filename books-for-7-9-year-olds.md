@@ -6,6 +6,7 @@
             h1{
                 font-size:50px;
                 text-decoration:underline;
+                color:black;
             }
             body{
                 text-align:center;
