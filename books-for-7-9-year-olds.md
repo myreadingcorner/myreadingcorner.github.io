@@ -24,7 +24,9 @@
         </style>
     </head>
     <body>
-        <a href="index.html"><h1>My Reading Corner</h1></a>
+        <h1>
+            <a href="https://myreadingcorner.github.io/">My Reading Corner</a>
+        </h1>
         <h4 id='text'>For kids who love to read</h4>
         <p>Books for:</p>
         <nav>
