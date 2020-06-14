@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Books for 7-9 Year Olds</title>
+        <style>
+            h1{
+                font-size:50px;
+                text-decoration:underline;
+            }
+            body{
+                text-align:center;
+                
+            }
+            .link{
+                text-decoration:none;
+                color:red;
+                font-weight:bold;
+                letter-spacing:1px;
+                font-size:18px;
+                border-color:red;
+                border-style:inset;
+            }
+        </style>
+    </head>
+    <body>
+    <h1>My Reading Corner</h1>
+    <h4 id='text'>For kids who love to read</h4>
+    <p>Books for:</p>
+    <nav>
+        <a id="link-7-9" class='link' href="/books-for-7-9-year-olds/">7-9 YEAR OLDS </a> &nbsp; &nbsp; 
+        <a id="link-10-12" class='link' href="/books-for-10-12-year-olds/">  10-12 YEAR OLDS </a> &nbsp;
+        <a id="link-13" class='link' href="/books-for-13-year-olds/">  13+ YEAR OLDS </a>
+    </nav>
+    <h2>Books for 7-9 Year Olds</h2>
+    
+
+    </body>
+</html>
