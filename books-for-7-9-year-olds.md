@@ -24,24 +24,14 @@
         </style>
     </head>
     <body>
-        <a href="index.html"><h1>My Reading Corner</h1></a>
-        <h4 id='text'>For kids who love to read</h4>
-        <p>Books for:</p>
-        <nav>
-            <a id="link-7-9" class='link' href=".">7-9 YEAR OLDS </a> &nbsp; &nbsp; 
-            <a id="link-10-12" class='link' href="/books-for-10-12-year-olds/">  10-12 YEAR OLDS </a> &nbsp; &nbsp;
-            <a id="link-13" class='link' href="/books-for-13-year-olds/">  13+ YEAR OLDS </a>
-        </nav>
-        <h2>Books for 7-9 Year Olds</h2>
-        <p>hello is this working</p>
         <nav class="navbar navbar-default">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="#">WebSiteName</a>
+                    <a class="navbar-brand" href="https://myreadingcorner.github.io/">My Reading Corner</a>
                 </div>
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#">Page 1</a></li>
+                    <li class="active"><a href="https://myreadingcorner.github.io/">Home</a></li>
+                    <li><a href="books-for-7-9-year-olds">7-9</a></li>
                     <li><a href="#">Page 2</a></li>
                     <li><a href="#">Page 3</a></li>
                 </ul>
